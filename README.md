@@ -1,13 +1,13 @@
 <div align="center">
     <img width="150" src="/logo.png"></img>
 </div>
-<h1 align="center">万物工具箱7</h1>
-<h4 align="center">一款可爱而帅气的工具箱~</h4>
+<h1 align="center">万物工具箱 - 柒</h1>
+<h4 align="center">第7代万物工具箱~</h4>
 <h4 align="center">支持 Windows 7、8、8.1、10、11</h4>
 <div align="center">
 
 ![GitHub Release](https://img.shields.io/github/v/release/ELFTS/wwgjx7?label=版本)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/wwgjx/total?label=总下载量)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ELFTS/wwgjx7/total?label=总下载量)
 [![Stars](https://img.shields.io/github/stars/ELFTS/wwgjx7?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiI+PHBhdGggZD0iTTggLjI1YS43NS43NSAwIDAgMSAuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwIDEgLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1MS43NTEgMCAwIDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAgMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMCAxIC40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAgMSA4IC4yNVoiIGZpbGw9IiNlYWM1NGYiLz48L3N2Zz4=&logoSize=auto&label=收藏)](https://github.com/ELFTS/wwgjx7/)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/ELFTS/wwgjx7?label=问题)
 
